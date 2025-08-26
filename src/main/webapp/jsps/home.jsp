@@ -13,7 +13,7 @@
 <h1 align="center">Arial Technologies is developing and supporting quality Software Solutions for millions of clients globall. It was Launch in 2020 by Stefan and Stefanie.
 	Arial tech offers Training for DevOps with Linux, Kubernetes, and Cloud, equipping IT Engineers for the  best performance.
        Arial Technologies, isa black owned IT institute and the best in the World.
-	Class1 DevOps MasterClass will start on  September 30th, 2025, runs 3 days a week Sunday, Wednesdays and Fridays.
+	Class1 DevOps MasterClass will start on  September 30th, 2025, runs 3 days a week Sundays, Wednesdays and Fridays.
         Class2 DevOps MasterClass will start on October 20th, 2025 and will run 3days a week Mondays, Thurdays and Saturdays for 5months.
         Please invite all your contacts and friends to this life-changing course.
 </h1>
@@ -55,6 +55,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 
 </body>
 </html>
+
 
 
 
