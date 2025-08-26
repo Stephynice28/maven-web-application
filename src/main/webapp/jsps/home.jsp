@@ -43,7 +43,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+1 202 817 9968,
 		engostephani1996@gmail.com
 		<br>
-		<a href="mailto:engostephani1996@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:engostephani1996@gmail.com">Mail to Arial Technologies</a>
 	</span>
 </div>
 <hr>
@@ -55,6 +55,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 
 </body>
 </html>
+
 
 
 
