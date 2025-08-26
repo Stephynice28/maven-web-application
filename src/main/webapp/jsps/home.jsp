@@ -4,17 +4,17 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>LandmarkTechnologies- Home Page</title>
+<title>ArialTechnologies- Home Page</title>
 <link href="images/mylandmarklogo.png" rel="icon">
 </head>
 </head>
 <body>
 <h1 align="center">Welcome to Tesla Web application Project.</h1>
-<h1 align="center">Landmark Software Solutions (LSS)  is developing and supporting quality Software Solutions for millions of clients globally.
-	Landmark Software Solutions (LSS) offers Training for DevOps with Linux, Kubernetes, and Cloud, equipping IT Engineers for the  best performance.
-        Landmark Technologies, the Pride of Africa.
-	Class40 DevOps MasterClass started on  June 7, 2025.
-        Class41 DevOps MasterClass will start on September 20, 2025.
+<h1 align="center">Arial Technologies is developing and supporting quality Software Solutions for millions of clients globall. It was Launch in 2020 by Stefan and Stefanie.
+	Arial tech offers Training for DevOps with Linux, Kubernetes, and Cloud, equipping IT Engineers for the  best performance.
+       Arial Technologies, isa black owned IT institute and the best in the World.
+	Class1 DevOps MasterClass will start on  September 30th, 2025, runs 3 days a week Sunday, Wednesdays and Fridays.
+        Class2 DevOps MasterClass will start on October 20th, 2025 and will run 3days a week Monday, Thurdays and Saturdays for 5months.
         Please invite all your contacts and friends to this life-changing course.
 </h1>
 <hr>
@@ -55,4 +55,5 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 
 </body>
 </html>
+
 
